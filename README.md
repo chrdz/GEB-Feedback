@@ -9,8 +9,8 @@ Other .m file contain functions of use in the main file.
 Some pictures:
 * with control:
 
-TODO
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="pic/Orient1_CENTERL_len1_nonlin_closeTransp_TSolve.png" alt="Orient1_CENTERL_len1_nonlin_closeTransp_TSolve" height="200"/> <img src="pic/Orient2_CENTERL_len1_nonlin_closeTransp_TSolve.png" alt="Orient2_CENTERL_len1_nonlin_closeTransp_TSolve" height="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="pic/SOLY_len1_nonlin_closeTransp.png" alt="SOLY_len1_nonlin_closeTransp" height="200"/>
 
 * without control:
 
-TODO
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="pic/no-fb/Orient1_CENTERL_len1_nonlin_closeTransp_TSolve.png" alt="Orient1_CENTERL_len1_nonlin_closeTransp_TSolve" height="200"/> <img src="pic/no-fb/Orient2_CENTERL_len1_nonlin_closeTransp_TSolve.png" alt="Orient2_CENTERL_len1_nonlin_closeTransp_TSolve" height="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="pic/no-fb/SOLY_len1_nonlin_closeTransp.png" alt="SOLY_len1_nonlin_closeTransp" height="200"/>
